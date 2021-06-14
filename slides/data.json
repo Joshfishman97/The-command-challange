@@ -16,3 +16,4 @@
     { "instructions": "**Open** the file `kamehameha/dragon-ball-jokes.md` using the **VI command line text editor**" },
     { "instructions": "**Update** the file kamehameha/*dragon-ball-jokes.md* by removing the first joke you read on the file, finally **save and close** the text editor." }
 ]
+mv funcode/kids.jpg funcode/images/hello
